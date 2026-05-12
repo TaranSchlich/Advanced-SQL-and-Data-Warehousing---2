@@ -33,7 +33,3 @@ Week 2 assignment for the Advanced SQL and Data Warehousing course (GB746) at UW
 - Busiest check-in periods: **Early Morning (5–7 AM)** and **Dinner Time (4–7 PM)**
 - **Less than 1%** of visits occurred outside staffed hours
 - Check-in data spans **2025-01-01 to 2025-08-28**
-
-## Score
-
-5.5 / 6 — 91.7%
